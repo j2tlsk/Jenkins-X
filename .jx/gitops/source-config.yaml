@@ -9,6 +9,7 @@ spec:
     providerKind: github
     repositories:
     - name: quick
+    - name: spring-boot
     scheduler: in-repo
   slack:
     channel: '#jenkins-x-pipelines'
